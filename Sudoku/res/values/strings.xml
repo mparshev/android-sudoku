@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Судоку</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game_label">Новая игра</string>
+    <string name="label_reset">Очистить</string>
+    <string name="alert_message">У вас получилось!</string>
+
+</resources>
